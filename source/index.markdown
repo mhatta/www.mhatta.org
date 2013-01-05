@@ -6,11 +6,9 @@ footer: false
 ---
 Welcome to Masayuki Hatta's home page.
 
-{% gravatar mhatta@mhatta.org %}
-
 # About myself
 
-My name is Masayuki Hatta (Masayuki is the [given name](http://en.wikipedia.org/wiki/Given_name), Hatta is the [family name](http://en.wikipedia.org/Family_name). I was born in [July 31th](http://en.wikipedia.org/wiki/July_31), [1979](http://en.wikipedia.org/1979), and currently live with my family in the suburb of [Tokyo](http://en.wikipedia.org/Tokyo), [Japan](http://en.wikipedia.org/Japan).  See also [my bio entry in Japanese Wikipedia](http://ja.wikipedia.org/wiki/%E5%85%AB%E7%94%B0%E7%9C%9F%E8%A1%8C).
+My name is Masayuki Hatta (Masayuki is the [given name](http://en.wikipedia.org/wiki/Given_name), Hatta is the [family name](http://en.wikipedia.org/Family_name)). I was born in [July 31th](http://en.wikipedia.org/wiki/July_31), [1979](http://en.wikipedia.org/1979), and currently live with my family in the suburb of [Tokyo](http://en.wikipedia.org/Tokyo), [Japan](http://en.wikipedia.org/Japan).  See also [my bio entry in Japanese Wikipedia](http://ja.wikipedia.org/wiki/%E5%85%AB%E7%94%B0%E7%9C%9F%E8%A1%8C).
 
 I was one of government-funded [AFS](http://en.wikipedia.org/wiki/AFS_Intercultural_Programs) exchange students, and lived in [Hopewell Junction, NY](http://en.wikipedia.org/wiki/Hopewell_Junction,_New_York), USA in 1997-8.
 
