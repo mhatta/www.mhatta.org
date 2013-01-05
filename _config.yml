@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.mhatta.org
+title: Masayuki Hatta a.k.a. mhatta
+subtitle: A rogue researcher & hacker wannabe from Japan
+author: Masayuki Hatta
 simple_search: http://google.com/search
-description:
+description: Masayuki Hatta's blog.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,10 +16,10 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_rss: http://feeds.feedburner.com/MasayukiHattaAkaMhatta
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=MasayukiHattaAkaMhatta&amp;loc=en_US
 # RSS feeds can list your email address if you like
-email:
+email: mhatta@mhatta.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -58,13 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: mhatta
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: masayukihatta
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -72,16 +72,16 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: 116953944474312020361
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: mhatta
 pinboard_count: 3
 
 # Delicious
@@ -89,11 +89,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: wwwmhattaorg
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-938391-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+
