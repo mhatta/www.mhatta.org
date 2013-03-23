@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Snow, Baby, Snow"
+date: 2013-01-14 15:48
+comments: true
+categories: life
+---
+{% img http://www.mhatta.org/images/snowytokyo20130114.jpg 320 200 %}
+
+It rarely snows these days in Tokyo.  Until now.
