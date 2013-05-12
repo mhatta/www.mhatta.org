@@ -20,6 +20,8 @@ module Jekyll
       il = Amazon::AWS::ItemLookup.new('ASIN', {'ItemId' => asin})
       resp = Amazon::AWS::Search::Request.new.search(il)
       @result_cache[asin] = resp
+#      print 'Sleeping...'
+#      sleep 1
       return resp
     end
 
