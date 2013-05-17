@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Owner: Masayuki Hatta
+  Site: http://ja.mhatta.org
+  Twitter: @mhatta
+
+  UX Designer: Adrian Artiles
+  Site: http://AdrianArtiles.com
+  Twitter: @AdrianArtiles
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Emacs

@@ -9,6 +9,8 @@ categories:
 ---
 [The 2nd Shogi Denousen](http://ex.nicovideo.jp/denousen2013/) has began.  This is the first cut-throat match between top-notch professional Shogi players(yes, there are [such people](http://www.shogi.or.jp/player/index.html)) and the best crop of computer Shogi engines, 5 on 5.
 
+<!--more-->
+
 [Shogi](http://en.wikipedia.org/wiki/Shogi) is a distant cousin of Chess.  Unlike Chess, you may re-use captured pieces anywhere on the board anytime.  It brings quite lot of additional complexities, and even after [the defeat of Garry Kasparov](http://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov) in 1997, many considered that (at least top-level) human Shogi players have a great lead on computer Shogi engines.
 
 The situation had changed dramatically when a newcomer Shogi engine called [Bonanza](http://ja.wikipedia.org/wiki/Bonanza), developed by a Japanese chemist Kunihito Hoki, won [the 16th World Computer Shogi Championship](http://www.computer-shogi.org/wcsc16/index_e.html).  Bonanza appeared totally out of the blue --- Hoki incorporated some new ideas developed in the field of computer Chess, and Bonanza beated existing engines with no mercy.  Bonanza could even corner some professional Shogi players in 2007.  Later Hoki released(but not strictly open-source) [the source code of Bonanza](http://www.geocities.jp/bonanza_shogi/), and the standard of computer Shogi has risen considerably since then.  Finally, in the 1st Denousen last year, [Kunio Yonenaga](http://en.wikipedia.org/wiki/Kunio_Yonenaga), long retired but possibly one of the greatest Shogi players in the history, was defeated by Bonkras, a clustered version of Bonanza developed by Eiki Itoh of Fujitsu. 

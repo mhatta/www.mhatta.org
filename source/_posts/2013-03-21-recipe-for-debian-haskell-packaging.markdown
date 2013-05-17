@@ -9,6 +9,8 @@ categories:
 ---
 The following is what I usually do when I want to debianize a Haskell stuff from Hackage.  This is a personal recipe, by no means official procedure or such.  I may be wrong, badly at that.
 
+<!--more-->
+
 1. Check [pkg-haskell repository](http://anonscm.debian.org/darcs/pkg-haskell/) whether your intended package already exists or not.  Somebody might work on it already.
 
 2. Find the webpage of your intended package at [HackageDB](http://hackage.haskell.org/packages/archive/pkg-list.html), then download "Cabal source package".  Untar it.  The tarball filename should be changed to fit the Debian source package convention.  For example, if the original name is something like foobar-1.0.tar.gz, then it should be haskell-foobar_1.0.orig.tar.gz.
