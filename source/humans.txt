@@ -3,9 +3,9 @@
 
 
 /* TEAM */
-  Owner: Masayuki Hatta
-  Site: http://ja.mhatta.org
-  Twitter: @mhatta
+  Owner: Adrian Artiles
+  Site: http://AdrianArtiles.com
+  Twitter: @AdrianArtiles
 
   UX Designer: Adrian Artiles
   Site: http://AdrianArtiles.com
@@ -14,4 +14,4 @@
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
-  Software: Emacs
+  Software: Vim

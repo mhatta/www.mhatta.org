@@ -4,9 +4,9 @@
 
 url: http://www.mhatta.org
 title: Masayuki Hatta a.k.a. mhatta
-subtitle: A rogue researcher & hacker wannabe from Japan
+subtitle: a rogue researcher & hacker wannabe from Japan
 author: Masayuki Hatta
-simple_search: http://google.com/search
+simple_search: https://www.google.com/search
 description: Masayuki Hatta's blog.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -34,12 +34,18 @@ plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
-pygments: false # default python pygments have been replaced by pygments.rb
+rdiscount:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+highlighter: pygments # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_separator: "<!--more-->"
 
 titlecase: true       # Converts page and post titles to titlecase
 
@@ -64,7 +70,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: masayukihatta
+twitter_user: mhatta
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -82,7 +88,7 @@ googleplus_hidden: false
 
 # Pinboard
 pinboard_user: mhatta
-pinboard_count: 3
+pinboard_count: 2
 
 # Delicious
 delicious_user:
@@ -98,5 +104,37 @@ google_analytics_tracking_id: UA-938391-1
 # Facebook Like
 facebook_like: true
 
+# 500px
+500px_user: mhatta
+
 # Bitcoin Donations
-bitcoin: 1H64MNRZpQhKgnPoUsE9L4dC93UZBTuhnx
+bitcoin: 1KL99per1ZCSHcfM8DndMbR4Jund5eacdQ
+
+# Facebook
+facebook_user: masayuki.hatta
+
+# Flattr
+flattr_uid: mhatta
+flattr_tags: text, opensource, blog
+flattr_category: text
+
+# Instagram
+instagram_user: 393053048
+instagram_client: 4c071d9afa67480f8e311914d06834f9
+instagram_access_token: 393053048.5b9e1e6.db092e12f7cc42399bc2f2c9ca3b6ba3
+
+# LinkedIn
+linkedin_user: mhatta
+
+# Quora
+quora_user: Masayuki-Hatta
+
+# Stackoverflow
+stackoverflow_user: 1458456
+
+# Steam
+steam_user: mhatta
+
+# Vimeo
+vimeo_user: masayukihatta
+
