@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="span4">
+  <div class="span3">
     <h2>recent posts</h2>
     <ul class="recent_posts">
       {% for post in site.posts limit: site.recent_posts %}
@@ -13,11 +13,8 @@
   <div class="span3">
     {% include custom/asides/instagram.html %}
   </div>
-  <div class="span4">
-    {% include asides/pinboard.html %}
-  </div>
   <div class="span3">
-    {% include custom/asides/found_on.html %}
+    {% include asides/pinboard.html %}
   </div>
   <div class="span3">
     {% include custom/asides/qrcode.html %}
